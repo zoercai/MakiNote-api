@@ -1,0 +1,13 @@
+{
+    "pathParameters": {
+        "id": "0b940b60-3544-11e8-9826-dfc485ace462"
+    },
+    "queryStringParameters": {
+        "url": "zoecai.com"
+    },
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "bfed6434-3fb1-4bfd-b7cb-ec5d841f7367"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "queryStringParameters": {
+    "url": "zoecai.com"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "bfed6434-3fb1-4bfd-b7cb-ec5d841f7367"
+    }
+  }
+}
